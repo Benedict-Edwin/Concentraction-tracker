@@ -45,4 +45,3 @@ This application uses computer vision to track a user's concentration level by m
 - Driver drowsiness detection
 - Attention tracking during online meetings
 
-Note: For production use, consider adding temporal smoothing and more sophisticated head pose estimation.
