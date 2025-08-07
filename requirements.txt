@@ -1,0 +1,5 @@
+*Requirements*
+    Python 3.7+
+    OpenCV
+    MediaPipe
+    NumPy
